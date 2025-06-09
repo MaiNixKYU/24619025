@@ -1,3 +1,5 @@
+# 24619025
+
 # 1.드라이브 마운트 및 데이터 압축 해제
 from google.colab import drive
 drive.mount('/content/drive')
@@ -69,3 +71,6 @@ submission.to_csv('xgb_smote_optimized_submit.csv', index=False)
 # 9. 제출 파일 다운로드
 from google.colab import files
 files.download('xgb_smote_optimized_submit.csv')
+
+# 최종 제출
+![image](https://github.com/user-attachments/assets/8907f23c-8e22-4db5-9a99-55bfb22fdc9e)
