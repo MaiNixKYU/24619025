@@ -1,4 +1,4 @@
-#1.드라이브 마운트 및 데이터 압축 해제
+1.드라이브 마운트 및 데이터 압축 해제
 from google.colab import drive
 drive.mount('/content/drive')
 !unzip --qq /content/drive/MyDrive/open.zip -d dataset
