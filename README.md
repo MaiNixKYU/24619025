@@ -74,3 +74,5 @@ files.download('xgb_smote_optimized_submit.csv')
 
 # 최종 제출
 ![image](https://github.com/user-attachments/assets/8907f23c-8e22-4db5-9a99-55bfb22fdc9e)
+![image](https://github.com/user-attachments/assets/b32a8dac-342e-4015-91be-c30d50fda542)
+
